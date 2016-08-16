@@ -1,0 +1,3 @@
+{"user_id":1, "name":"Alice"}
+{"user_id":2, "name":"Bob"}
+{"user_id":3, "name":"Carol"}

@@ -1,0 +1,6 @@
+{"user_id":1, "name":"Alice"}
+{"user_id":2, "name":"Bob"}
+{"user_id":3, "name":"Carol"}
+{"user_id":1, "fruit":"pear"}
+{"user_id":2, "fruit":"orange"}
+{"user_id":3, "fruit":"apple"}
